@@ -1,7 +1,13 @@
 import discord
 
-token = "PUT TOKEN HERE"
-message = "PUT YOUR MESSAGE HERE"
+token = "NjE2NzgyNzkzMTA3ODMyODYy.YbuyIg.Y9tgNO05-RiAzFmJM7xWPGLadzM"
+message = "----------------ᴀ ꜱᴇʀᴠᴇʀ-------------------
+_[+] ᴄʜᴇᴀᴘ ꜰɪᴠᴇᴍ ɢᴀɴɢ ɪɴᴛʀᴏꜱ.
+[+]  ᴄᴏᴏʟ ɢᴏᴏᴅ ɢꜰx
+[+]  ᴄʜᴇᴀᴘ ɢᴏᴏᴅ ᴄʟᴏᴛʜɪɴɢ.
+[+]  ɢɪᴠᴇᴀᴡᴀʏꜱ-
+[+]  ᴄᴜꜱᴛᴏᴍ ᴘꜰᴘꜱ ᴀɴᴅ ʙᴀɴɴᴇʀꜱ
+https://discord.gg/ufhfb9QmguE"
 
 client = discord.Client()
 
@@ -21,4 +27,4 @@ async def on_connect():
         except:
             pass
             
-client.run(token, bot=False)
+client.run(token, bot=True)
